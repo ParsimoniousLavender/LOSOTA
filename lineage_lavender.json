@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1627729441,
-      "filename": "lineage-18.1-20210731-1304-UNOFFICIAL-lavender.zip",
-      "id": "kc2bzn50058vxmrf6cvsyrp26ey12h6d",
+      "datetime": 1627809864,
+      "filename": "lineage-18.1-20210801-1124-UNOFFICIAL-lavender.zip",
+      "id": "dtm6hvpui9zizlxazz0gf6nvsh2x0ar2",
       "romtype": "UNOFFICIAL",
-      "size": 904549253,
-      "url": "https://github.com/ParsimoniousLavender/LOSOTA/releases/download/18.1-20210731-1304/lineage-18.1-20210731-1304-UNOFFICIAL-lavender.zip",
+      "size": 914121618,
+      "url": "https://github.com/ParsimoniousLavender/LOSOTA/releases/download/18.1-20210801-1124/lineage-18.1-20210801-1124-UNOFFICIAL-lavender.zip",
       "version": "18.1"
     }
   ]
